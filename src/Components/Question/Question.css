@@ -1,0 +1,16 @@
+.ex-heading{
+    font-weight: 400;
+}
+
+.example{
+    background: #f7f9fa;
+    padding: 10px 15px;
+    color: #263238;
+    line-height: 1.6;
+    font-size: 13px;
+    border-radius: 3px
+}
+
+.constrains{
+    margin: 15px;
+}
